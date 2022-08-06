@@ -1,4 +1,5 @@
 import * as React from "react";
+import Layout from "../components/layout";;
 import Layout from "../components/layout";
 
 // Key Gatsby Concept:
@@ -14,4 +15,4 @@ const IndexPage = () => {
   );
 };
 
-export default IndexPage;
+export default IndexPage;;
